@@ -5,7 +5,11 @@
   text-align: center;
 }
 
-
+.card {
+  border-radius: 5px;
+  border: black 1px solid;
+  margin-bottom: 8px;
+}
 
 @keyframes logo-spin {
   from {
